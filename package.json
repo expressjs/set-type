@@ -1,7 +1,7 @@
 {
   "name": "set-type",
-  "description": "set well-formatted content-type headers",
   "version": "1.0.0",
+  "description": "DEPRECATED - Please use mime-types instead.",
   "author": {
     "name": "Jonathan Ong",
     "email": "me@jongleberry.com",

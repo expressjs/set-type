@@ -1,3 +1,6 @@
+
+DEPRECATED - Please use [mime-types](https://github.com/expressjs/mime-types) instead.
+
 # Set Type
 
 Return a well-formatted content type header given an extension.
